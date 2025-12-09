@@ -1,1 +1,1 @@
-# steam-clone
+Este é um site que fiz para uma das aulas do meu curso do SENAI em desenvolvimento de sistemas, foi uma aula com o intuito de recriar um site de sua escolha, no meu caso, escolhi a steam, um site de venda de jogos.
