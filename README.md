@@ -1,1 +1,3 @@
-Este é um site que fiz para uma das aulas do meu curso do SENAI em desenvolvimento de sistemas, foi uma aula com o intuito de recriar um site de sua escolha, no meu caso, escolhi a steam, um site de venda de jogos.
+#Steam-Clone
+
+Este é um site que fiz para uma das aulas do meu curso tecnico em desenvolvimento de sistemas, foi uma aula com o intuito de recriar um site qualquer, escolhi a steam por ser um site que gosto bastante.
